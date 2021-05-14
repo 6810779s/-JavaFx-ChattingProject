@@ -1,0 +1,7 @@
+.bodybg{
+	-fx-background-image:  url('./images/flower_login.png');
+	-fx-background-size: contain;
+	-fx-width: auto;
+	-fx-height: auto;
+}
+
